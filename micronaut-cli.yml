@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: tech.ekite
+testFramework: junit
+sourceLanguage: java
+buildTool: gradle
+features: [annotation-api, app-name, assertj, cache-ehcache, config-kubernetes, data, data-mongodb, github-workflow-ci, graalvm, gradle, http-client, jackson-databind, java, java-application, jetty-server, jib, junit, kubernetes, log4j2, management, micrometer, micrometer-prometheus, micronaut-build, mockito, openapi, properties, readme, security-annotations, security-oauth2, shade, swagger-ui, test-resources]
